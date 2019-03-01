@@ -1,0 +1,24 @@
+head, nav, li, img, aside, h2, ul, figure, figcaption, p, ol, form, label, footer {
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    text-decoration: inherit;
+
+}
+
+body {
+    line-height: 1.5;
+}
+
+li {
+    text-align: inherit;
+}
+
+img {
+    width: 100%;
+}
